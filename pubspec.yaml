@@ -1,0 +1,8 @@
+name: car_rental_billing
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0"
+
+dev_dependencies:
+  test: 1.25.8
